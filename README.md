@@ -4,7 +4,7 @@ This page is a one stop shop for **The FUNdamentals of Web Design** curriculum. 
 
 ## Lesson 0: CodePen Setup
 Head on over to [CodePen's Website](https://codepen.io) and create an account
--[CodePen Setup Video](https://youtu.be/te2OKIqD-rQ)
+- [CodePen Setup Video](https://youtu.be/te2OKIqD-rQ)
  
 ## Lesson 1: Outschool Classroom Portal Demo
 This is an example video of a classroom portal from my Java course, but they are all set up the same way! 
