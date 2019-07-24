@@ -17,6 +17,6 @@ This is an example video of a classroom portal from my Java course, but they are
  
  ### Assignment: 
  Recreate the page in HTML that you see explained in the video below.
- - [Recreate this page!]()
+ - [Recreate this page!](https://youtu.be/I-owlYjiIm4)
  
  
