@@ -22,7 +22,7 @@ This is an example video of a classroom portal from my Java course, but they are
  ## Lesson 3: Intro to CSS
  - [W3 Schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
  - [Adding CSS to the About Me Page]()
-    - Here is the AboutMe page that I created in the Video Demo above [AboutMe CodePen](https://codepen.io/akostrick/pen/KOzNKw)
+    - Here is the AboutMe page that I created in the Video Demo above [AboutMe CodePen](https://codepen.io/akostrick/pen/rXeWgJ)
  
  ### Assignment:
  Recreate the CSS that you see explained in the video below.
