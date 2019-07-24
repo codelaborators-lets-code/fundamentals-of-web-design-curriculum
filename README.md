@@ -13,7 +13,7 @@ This is an example video of a classroom portal from my Java course, but they are
  ## Lesson 2: Intro to HTML
  - [W3 Schools HTML Tutorial](https://www.w3schools.com/html/)
  - [About Me Video Demo](https://youtu.be/FlfNshA_6bU)
- Here is the AboutMe page that I created in the Video Demo above [AboutMe CodePen](https://codepen.io/akostrick/pen/KOzNKw)
+  - Here is the AboutMe page that I created in the Video Demo above [AboutMe CodePen](https://codepen.io/akostrick/pen/KOzNKw)
  
  ### Assignment: 
  Recreate the page in HTML that you see explained in the video below.
