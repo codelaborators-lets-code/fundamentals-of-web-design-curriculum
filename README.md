@@ -30,8 +30,8 @@ This is an example video of a classroom portal from my Java course, but they are
  
 ## Lesson 4: Using Flexbox to control specific layout of html elements on your page
 - [W3 Schools Flexbox Tutorial](https://www.w3schools.com/css/css3_flexbox.asp)
-- [Create a Nav Bar using Flexbox]()
- - Here is the NavBar page that I created in the Video Demo above [NavBar CodePen]()
+- [Create a Nav Bar using Flexbox](https://youtu.be/RhZtVKtNNz0)
+ - Here is the NavBar page that I created in the Video Demo above [NavBar CodePen](https://codepen.io/akostrick/pen/xvVgJo)
  
  ### Assignment
  Recreate the Footer that you see layed out in the video below and align with flexbox!
