@@ -19,4 +19,9 @@ This is an example video of a classroom portal from my Java course, but they are
  Recreate the page in HTML that you see explained in the video below.
  - [Recreate this page!](https://youtu.be/I-owlYjiIm4)
  
+ ## Lesson 3: Intro to CSS
+ - [W3 Schools CSS Tutorial(https://www.w3schools.com/css/default.asp)
+
+
+ 
  
