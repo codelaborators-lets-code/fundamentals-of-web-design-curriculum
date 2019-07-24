@@ -14,3 +14,8 @@ This is an example video of a classroom portal from my Java course, but they are
  - [W3 Schools HTML Tutorial](https://www.w3schools.com/html/)
  - [About Me Video Demo](https://youtu.be/FlfNshA_6bU)
  
+ ### Assignment: 
+ Recreate the page in HTML that you see explained in the video below.
+ - [Recreate this page!]()
+ 
+ 
