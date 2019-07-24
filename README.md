@@ -12,3 +12,5 @@ This is an example video of a classroom portal from my Java course, but they are
  
  ## Lesson 2: Intro to HTML
  - [W3 Schools HTML Tutorial](https://www.w3schools.com/html/)
+ - [About Me Video Demo](https://youtu.be/FlfNshA_6bU)
+ 
