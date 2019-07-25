@@ -47,5 +47,15 @@ This is an example video of a classroom portal from my Java course, but they are
   - [Recreate this page!](https://youtu.be/AFkku_fCYcw)
   
 
- 
+ ## Lesson 6: Hero Images
+ - This is a great resource for free use, high quality images! [Unsplash](https://unsplash.com/)
+ - [W3 Schools Hero Image](https://www.w3schools.com/howto/howto_css_hero_image.asp)
+ - [Create a Hero Image in CodePen]()
+  - Here is the CodePen layout in the Video Demo above [Hero Image CodePen]()
+  
+  ### Assignnment
+  Using the tools learned so far, recreate this layout that I am displaying in the video below
+  - [Recreate this page!]()
+  
+  
  
