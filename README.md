@@ -59,6 +59,7 @@ This is an example video of a classroom portal from my Java course, but they are
   
   ## Lesson 7: Putting all the pieces together 
   Let's put all of these pieces together that we have learned throughout the course and make a "portfolio" style web page. This is a great example of a landing page and could be duplicated for a company or person of your choosing. I am going to share a list of resources that are referenced in this build below:
+[Portfolio Demo Video]()
  - [Shadow Box Generator](https://www.cssmatic.com/box-shadow)
  - [Google Fonts](https://fonts.google.com/)
  - [W3 Schools: Social Media Icons](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
