@@ -64,3 +64,6 @@ This is an example video of a classroom portal from my Java course, but they are
  - [W3 Schools: Social Media Icons](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
  - [Linear Gradient Generator](https://cssgradient.io/)
  - [W3 Schools: Styling Images](https://www.w3schools.com/css/css3_images.asp)
+ 
+ ## Congratulations
+ Congratulations! You have made it to the end of this course. Remember, this is only a small intro to what is possible in the vast world of front end design. Go out and explore more resources on your own, or better yet, begin to explore JavaScript, a language that will enable your webpages to be much more dynamic and user friendly. Most importantly, just keep coding!
