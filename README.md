@@ -4,15 +4,15 @@ This page is a one stop shop for **The FUNdamentals of Web Design** curriculum. 
 
 ## Lesson 0: CodePen Setup
 Head on over to [CodePen's Website](https://codepen.io) and create an account
-- [CodePen Setup Video](https://youtu.be/te2OKIqD-rQ)
+### [CodePen Demo Video](https://youtu.be/te2OKIqD-rQ)
  
 ## Lesson 1: Outschool Classroom Portal Demo
 This is an example video of a classroom portal from my Java course, but they are all set up the same way! 
- - [Demo Video](https://youtu.be/jmT395wQxHw)
+ ### [Classroom Portal Demo Video](https://youtu.be/jmT395wQxHw)
  
  ## Lesson 2: Intro to HTML
  - [W3 Schools HTML Tutorial](https://www.w3schools.com/html/)
- - [About Me Video Demo](https://youtu.be/FlfNshA_6bU)
+ ### [About Me Demo Video](https://youtu.be/FlfNshA_6bU)
   - Here is the AboutMe page that I created in the Video Demo above [AboutMe CodePen](https://codepen.io/akostrick/pen/KOzNKw)
  
  ### Assignment: 
@@ -21,7 +21,7 @@ This is an example video of a classroom portal from my Java course, but they are
  
  ## Lesson 3: Intro to CSS
  - [W3 Schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
- - [Adding CSS to the About Me Page](https://youtu.be/GHEn1MMeEG4)
+ ### [Adding CSS to the About Me Page Demo Video](https://youtu.be/GHEn1MMeEG4)
     - Here is the AboutMe page that I created in the Video Demo above [AboutMe CodePen](https://codepen.io/akostrick/pen/rXeWgJ)
  
  ### Assignment:
@@ -30,7 +30,7 @@ This is an example video of a classroom portal from my Java course, but they are
  
 ## Lesson 4: Using Flexbox to control specific layout of html elements on your page
 - [W3 Schools Flexbox Tutorial](https://www.w3schools.com/css/css3_flexbox.asp)
-- [Create a Nav Bar using Flexbox](https://youtu.be/RhZtVKtNNz0)
+### [Create a Nav Bar using Flexbox Demo Video](https://youtu.be/RhZtVKtNNz0)
  - Here is the NavBar page that I created in the Video Demo above [NavBar CodePen](https://codepen.io/akostrick/pen/xvVgJo)
  
  ### Assignment
@@ -39,7 +39,7 @@ This is an example video of a classroom portal from my Java course, but they are
  
  ## Lesson 5: Using CSS Grid to control the layout of the different sections on your page
  - [W3 Schools CSS Grid Layout Tutorial](https://www.w3schools.com/css/css_grid.asp)
- - [Create a generic layout using CSS Grid](https://youtu.be/QvSgBqyWMFQ)
+ ### [Create a generic layout using CSS Grid Demo Video](https://youtu.be/QvSgBqyWMFQ)
   - Here is the generic layout that I created in the Vide Demo above [CSS Grid Layout CodePen](https://codepen.io/akostrick/pen/xvVvGK)
   
   ### Assignment
@@ -50,7 +50,7 @@ This is an example video of a classroom portal from my Java course, but they are
  ## Lesson 6: Hero Images
  - This is a great resource for free use, high quality images! [Unsplash](https://unsplash.com/)
  - [W3 Schools Hero Image](https://www.w3schools.com/howto/howto_css_hero_image.asp)
- - [Create a Hero Image in CodePen]()
+ ### [Create a Hero Image Demo Video]()
   - Here is the CodePen layout in the Video Demo above [Hero Image CodePen]()
   
   ### Assignnment
