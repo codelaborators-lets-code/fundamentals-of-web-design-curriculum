@@ -22,7 +22,7 @@ This is an example video of a classroom portal from my Java course, but they are
  ## Lesson 3: Intro to CSS
  - [W3 Schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
  ### [Adding CSS to the About Me Page Demo Video](https://youtu.be/GHEn1MMeEG4)
-    - Here is the AboutMe page that I created in the Video Demo above [AboutMe CodePen](https://codepen.io/akostrick/pen/rXeWgJ)
+   - Here is the [AboutMe CodePen](https://codepen.io/akostrick/pen/rXeWgJ) that I created in the Video Demo above 
  
  ### Assignment:
  Recreate the CSS that you see explained in the video below.
@@ -31,7 +31,7 @@ This is an example video of a classroom portal from my Java course, but they are
 ## Lesson 4: Using Flexbox to control specific layout of html elements on your page
 - [W3 Schools Flexbox Tutorial](https://www.w3schools.com/css/css3_flexbox.asp)
 ### [Create a Nav Bar using Flexbox Demo Video](https://youtu.be/RhZtVKtNNz0)
- - Here is the NavBar page that I created in the Video Demo above [NavBar CodePen](https://codepen.io/akostrick/pen/xvVgJo)
+ - Here is the [NavBar CodePen](https://codepen.io/akostrick/pen/xvVgJo) that I created in the Video Demo above 
  
  ### Assignment
  Recreate the Footer that you see layed out in the video below and align with flexbox!
@@ -40,8 +40,7 @@ This is an example video of a classroom portal from my Java course, but they are
  ## Lesson 5: Using CSS Grid to control the layout of the different sections on your page
  - [W3 Schools CSS Grid Layout Tutorial](https://www.w3schools.com/css/css_grid.asp)
  ### [Create a generic layout using CSS Grid Demo Video](https://youtu.be/QvSgBqyWMFQ)
-  - Here is the generic layout that I created in the Vide Demo above [CSS Grid Layout CodePen](https://codepen.io/akostrick/pen/xvVvGK)
-  
+  - Here is the [CSS Grid Layout CodePen](https://codepen.io/akostrick/pen/xvVvGK) that I created in the Vide Demo above 
   ### Assignment
   Recreate this layout that I am displaying in the video below.
   - [Recreate this page!](https://youtu.be/AFkku_fCYcw)
@@ -51,7 +50,7 @@ This is an example video of a classroom portal from my Java course, but they are
  - This is a great resource for free use, high quality images! [Unsplash](https://unsplash.com/)
  - [W3 Schools Hero Image](https://www.w3schools.com/howto/howto_css_hero_image.asp)
  ### [Create a Hero Image Demo Video]()
-  - Here is the CodePen layout in the Video Demo above [Hero Image CodePen]()
+  - Here is the [Hero Image CodePen]() that I created in the Video Demo above 
   
   ### Assignnment
   Using the tools learned so far, recreate this layout that I am displaying in the video below
@@ -66,6 +65,8 @@ This is an example video of a classroom portal from my Java course, but they are
  - [W3 Schools: Social Media Icons](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
  - [Linear Gradient Generator](https://cssgradient.io/)
  - [W3 Schools: Styling Images](https://www.w3schools.com/css/css3_images.asp)
+ 
+  - Here is the [Portfolio Demo CodePen]() that I created in the Video Demo above
  
  ## Congratulations
  Congratulations! You have made it to the end of this course. Remember, this is only a small intro to what is possible in the vast world of front end design. Go out and explore more resources on your own, or better yet, begin to explore JavaScript, a language that will enable your webpages to be much more dynamic and user friendly. Most importantly, just keep coding!
