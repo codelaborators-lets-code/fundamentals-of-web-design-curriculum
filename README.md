@@ -2,11 +2,11 @@
 
 This page is a one stop shop for **The FUNdamentals of Web Design** curriculum. The best way to interact with each link is to *right click and open link in new tab* this way you always have a new window pop up in your browser for the item you would like to work in. 
 
-|## Lesson 0: CodePen Setup|
+## Lesson 0: CodePen Setup
 Head on over to [CodePen's Website](https://codepen.io) and create an account
 ### [CodePen Demo Video](https://youtu.be/te2OKIqD-rQ)
  
-|## Lesson 1: Outschool Classroom Portal Demo|
+## Lesson 1: Outschool Classroom Portal Demo
 This is an example video of a classroom portal from my Java course, but they are all set up the same way! 
  ### [Classroom Portal Demo Video](https://youtu.be/jmT395wQxHw)
  
