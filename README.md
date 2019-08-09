@@ -66,19 +66,20 @@ This is an example video of a classroom portal from my Java course, but they are
  ---
  
   ## Lesson 7: Putting all the pieces together 
-  ### [HTML Demo Video](https://youtu.be/zFkH5ysjvK8)
+  Let's put all of these pieces together that we have learned throughout the course and make a "portfolio" style web page. This is a great example of a landing page and could be duplicated for a company or person of your choosing.
+  
+  ### [Part 1: HTML Demo Video](https://youtu.be/zFkH5ysjvK8)
   - This video references [W3 Schools Font Awesome resources](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
   
-  
-  Let's put all of these pieces together that we have learned throughout the course and make a "portfolio" style web page. This is a great example of a landing page and could be duplicated for a company or person of your choosing. I am going to share a list of resources that are referenced in this build below:
-
+  ### [Part 2: CSS Demo Video]()
+  This video references the following:
  - [Shadow Box Generator](https://www.cssmatic.com/box-shadow)
  - [Google Fonts](https://fonts.google.com/)
  - [W3 Schools: Social Media Icons](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
  - [Linear Gradient Generator](https://cssgradient.io/)
  - [W3 Schools: Styling Images](https://www.w3schools.com/css/css3_images.asp)
  
-  - Here is the [Portfolio Demo CodePen]() that I created in the Video Demo above
+  - Here is the [Portfolio Demo CodePen](https://codepen.io/akostrick/pen/oKyqMW) that I created in the Video Demo above
  
  ---
  
