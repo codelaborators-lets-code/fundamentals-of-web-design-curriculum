@@ -71,7 +71,7 @@ This is an example video of a classroom portal from my Java course, but they are
   ### [Part 1: HTML Demo Video](https://youtu.be/zFkH5ysjvK8)
   - This video references [W3 Schools Font Awesome resources](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
   
-  ### [Part 2: CSS Demo Video]()
+  ### [Part 2: CSS Demo Video](https://youtu.be/XhbrzvK8pNA)
   This video references the following:
  - [Shadow Box Generator](https://www.cssmatic.com/box-shadow)
  - [Google Fonts](https://fonts.google.com/)
